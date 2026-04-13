@@ -300,7 +300,7 @@
   font-weight: 600;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  border: 1.5px solid hsl(var(--warm-white) / 0.4);
+  border: 1.5px solid hsl(var(--warm-white) / 0.7);
   transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
 }
 

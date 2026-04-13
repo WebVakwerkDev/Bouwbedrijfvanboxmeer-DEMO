@@ -209,8 +209,8 @@ const Index = () => {
 
         <div className="relative z-10 px-6 md:px-12 lg:px-20 pb-20 pt-32">
           <div className="reveal">
-            <div className="label-caps text-white/80 mb-6 flex items-center gap-3">
-              <span className="w-10 h-px bg-white/60" />
+            <div className="label-caps text-white mb-6 flex items-center gap-3">
+              <span className="w-10 h-px bg-white/80" />
               Al meer dan 100 jaar
             </div>
           </div>
@@ -221,7 +221,7 @@ const Index = () => {
           </h1>
 
           <div className="mt-12 flex flex-col md:flex-row md:items-end gap-10 reveal stagger-2">
-            <p className="max-w-lg body-elegant text-white/85">
+            <p className="max-w-lg body-elegant text-white">
               Bouwbedrijf Van Boxmeer is een allround bouwbedrijf. Al meer dan een eeuw lang.
               Met onze persoonlijke aanpak werken wij dagelijks aan gevarieerde bouwprojecten
               in Noord-Brabant.
@@ -602,7 +602,7 @@ const Index = () => {
           <h2 className="display-large text-white mb-6">
             Klaar om te <span className="italic hero-accent">bouwen</span>?
           </h2>
-          <p className="body-elegant text-white/85 max-w-xl mx-auto mb-10">
+          <p className="body-elegant text-white max-w-xl mx-auto mb-10">
             Overweegt u een nieuwbouwproject, verbouwing of renovatie? Het liefst
             denken wij in een vroeg stadium met u mee. Neem vrijblijvend contact op.
             Meer dan 100 jaar ervaring staat voor u klaar.
