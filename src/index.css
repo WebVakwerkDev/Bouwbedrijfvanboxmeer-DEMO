@@ -171,7 +171,6 @@
   font-size: clamp(1rem, 1.3vw, 1.15rem);
   line-height: 1.8;
   font-weight: 400;
-  color: hsl(var(--muted-foreground));
 }
 
 .label-caps {

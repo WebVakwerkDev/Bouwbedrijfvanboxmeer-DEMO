@@ -230,7 +230,7 @@ const Index = () => {
               <a href="#contact" className="btn-primary">
                 Neem contact op <span className="text-lg">&#8594;</span>
               </a>
-              <a href="#projecten" className="btn-outline-light">
+              <a href="#projecten" className="btn-outline-light bg-white/15 backdrop-blur-sm">
                 Onze projecten
               </a>
             </div>
